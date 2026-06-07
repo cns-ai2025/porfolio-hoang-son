@@ -7,8 +7,6 @@ File này ghi lại các thông tin còn thiếu cho portfolio của Hoàng Bả
 - Thông tin cá nhân cốt lõi: Đã có trong `personal-info.md`.
 - PDF minh chứng Bài 1 đến Bài 6: Đã có trong thư mục `documents/` và `Bài_1` đến `Bài_6`.
 - Avatar riêng của Hoàng Bảo Sơn: Chưa được cung cấp.
-- Email liên hệ chính thức: Chưa được cung cấp.
-- Số điện thoại liên hệ chính thức: Chưa được cung cấp.
 
 ## Nguyên tắc xử lý
 

@@ -30,6 +30,10 @@ Kỹ năng nổi bật:
 - Tư duy phân tích
 - Sử dụng AI hỗ trợ học tập và nghiên cứu
 
+Liên hệ:
+- Email: sonbaohoang27@gmail.com
+- Số điện thoại: 0964158956
+
 Hero subtitle:
 Sinh viên Kỹ thuật Công nghiệp và Logistics | Định hướng công nghệ, dữ liệu và chuỗi cung ứng
 
