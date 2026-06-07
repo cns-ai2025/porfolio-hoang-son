@@ -23,6 +23,10 @@ Sản phẩm cuối cùng là file PDF trình bày quá trình tìm kiếm thôn
 File sản phẩm:
 - `san_pham/Bài_2.pdf`
 
+Trạng thái kiểm tra:
+- PDF đã được người dùng chỉnh lại.
+- Website dùng trang 1, 2 và 4 làm minh chứng.
+
 ## 4. Minh chứng có trong PDF
 
 PDF sản phẩm đã chứa các minh chứng như:
@@ -32,11 +36,12 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Bảng đánh giá nguồn tin.
 - Phần phân tích độ tin cậy và mức độ phù hợp của nguồn thông tin.
 
-Codex cần đọc PDF này và chọn 1-3 trang tiêu biểu nhất để render thành ảnh minh chứng đưa lên website.
+Đã render các trang được chọn thành ảnh minh chứng cho website.
 
 Trang minh chứng đã chọn cho website:
 - Trang 1
 - Trang 2
+- Trang 4
 
 Ưu tiên chọn trang có:
 - câu truy vấn tìm kiếm rõ ràng,

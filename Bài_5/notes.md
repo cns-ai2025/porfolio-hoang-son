@@ -27,8 +27,8 @@ File sản phẩm:
 - `san_pham/Bài_5.pdf`
 
 Trạng thái kiểm tra:
-- Không phát hiện thông tin sinh viên cũ qua trích xuất text.
-- Đã render trang minh chứng từ PDF mới vào website.
+- PDF đã được người dùng chỉnh lại.
+- Website dùng trang 1, 3 và 6 làm minh chứng.
 
 Nếu có sản phẩm rời, Codex cần ưu tiên liên kết hoặc hiển thị:
 - hình ảnh cuối cùng,
@@ -50,7 +50,8 @@ PDF sản phẩm đã chứa các minh chứng như:
 
 Trang minh chứng đã chọn cho website:
 - Trang 1
-- Trang 2
+- Trang 3
+- Trang 6
 
 Ưu tiên chọn trang có:
 - sản phẩm cuối cùng đẹp nhất,

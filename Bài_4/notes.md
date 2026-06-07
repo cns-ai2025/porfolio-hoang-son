@@ -27,8 +27,9 @@ File sản phẩm:
 - `san_pham/Bài_4.pdf`
 
 Trạng thái kiểm tra:
-- Không phát hiện thông tin sinh viên cũ qua trích xuất text.
-- Đã render trang minh chứng từ PDF mới vào website.
+- PDF đã được người dùng chỉnh lại.
+- Website chỉ dùng trang 5 làm minh chứng.
+- Website liên kết PDF đầy đủ theo yêu cầu mới của người dùng.
 
 ## 4. Minh chứng có trong PDF
 
@@ -41,8 +42,6 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Nhận xét về hiệu quả của công cụ trong quá trình làm việc nhóm.
 
 Trang minh chứng đã chọn cho website:
-- Trang 1
-- Trang 3
 - Trang 5
 
 Ưu tiên chọn trang có:

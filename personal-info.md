@@ -1,29 +1,31 @@
 # Thông tin cá nhân
 
-Họ và tên: Nguyễn Trần Khánh Vũ
+Họ và tên: Lê Hoài An
 
-Mã sinh viên: 25070591
+Mã sinh viên: Chưa được cung cấp
 
-Trường: Trường Quốc tế - Đại học Quốc gia Hà Nội
+Ngành học: Khoa học giáo dục và khác
+
+Trường: Đại học Giáo dục - ĐHQGHN
 
 Sở thích:
-- Đi du lịch để khám phá những điều mới.
+- Nghe nhạc.
+- Xem phim.
 
 Mục tiêu học tập:
-- Nỗ lực học tập để đạt thành tích tốt.
-- Cải thiện năng lực ngoại ngữ.
-- Chuẩn bị đầy đủ kiến thức và kỹ năng cho kế hoạch du học sau khi tốt nghiệp đại học.
+Em mong muốn xây dựng nền tảng kiến thức vững chắc trong lĩnh vực khoa học giáo dục, rèn luyện tư duy phản biện, kỹ năng nghiên cứu và khả năng ứng dụng công nghệ vào học tập. Trong quá trình học, em đặt mục tiêu duy trì kết quả học tập tốt, chủ động tham gia các hoạt động học thuật và phát triển kỹ năng mềm để chuẩn bị cho công việc tương lai.
 
 Định hướng cá nhân:
-- Du học sau khi tốt nghiệp đại học để nâng cao trình độ chuyên môn.
-- Mở rộng cơ hội nghề nghiệp.
-- Tích lũy kinh nghiệm trong môi trường quốc tế.
+Trong tương lai, em định hướng trở thành một người làm việc trong lĩnh vực giáo dục có tư duy sáng tạo, biết lắng nghe và luôn đổi mới. Em mong muốn góp phần xây dựng môi trường học tập tích cực, gần gũi và truyền cảm hứng cho người học. Bên cạnh đó, em cũng muốn tiếp tục phát triển bản thân qua việc học ngoại ngữ, công nghệ và các kỹ năng giao tiếp, tổ chức.
+
+Câu giới thiệu đầu trang:
+“Giữa những ngày học tập nhiều sắc màu, mình chọn lưu lại hành trình trưởng thành bằng sự dịu dàng, tò mò và một trái tim luôn muốn học thêm những điều mới.”
 
 Mục tiêu của Portfolio:
-Digital Portfolio này trình bày quá trình học tập, mục tiêu phát triển và định hướng du học của Nguyễn Trần Khánh Vũ. Nội dung nhấn mạnh tinh thần học hỏi, khả năng chuẩn bị ngoại ngữ, kiến thức chuyên môn và kỹ năng cần thiết để sẵn sàng học tập trong môi trường quốc tế.
+Digital Portfolio này trình bày quá trình học tập, sở thích, mục tiêu phát triển và định hướng cá nhân của Lê Hoài An. Nội dung nhấn mạnh tinh thần học hỏi dịu dàng, sự tò mò với lĩnh vực khoa học giáo dục, khả năng ứng dụng công nghệ vào học tập và mong muốn xây dựng môi trường học tập tích cực cho người học.
 
 Giới thiệu bản thân:
-Tôi là Nguyễn Trần Khánh Vũ, sinh viên Trường Quốc tế - Đại học Quốc gia Hà Nội. Tôi có tinh thần học hỏi, yêu thích du lịch và mong muốn khám phá những điều mới. Trong quá trình học tập, tôi hướng đến việc phát triển năng lực ngoại ngữ, củng cố kiến thức chuyên môn và rèn luyện kỹ năng cần thiết để chuẩn bị cho kế hoạch du học sau khi tốt nghiệp đại học.
+Em là Lê Hoài An, sinh viên ngành Khoa học giáo dục và khác tại Đại học Giáo dục - ĐHQGHN. Em yêu thích nghe nhạc, xem phim và muốn lưu lại hành trình học tập của mình như một cuốn nhật ký nhỏ: nhẹ nhàng, trong trẻo, có mục tiêu và luôn mở ra những điều mới để học hỏi.
 
 Phong cách website mong muốn:
-Website cần mang phong cách nâu pastel nhẹ nhàng, hiện đại và tinh tế. Ưu tiên các màu nâu pastel, be, kem, trắng ngà và nâu sữa, kết hợp điểm nhấn học thuật quốc tế và định hướng du học. Không sử dụng avatar, ảnh đại diện hoặc ảnh cá nhân; nếu cần điểm nhấn thị giác, dùng biểu tượng học thuật, công nghệ, bản đồ, hộ chiếu hoặc pattern được tạo bằng HTML/CSS.
+Website cần mang vibe thơ thơ, cute, nữ tính, nhẹ nhàng; có cảm giác mềm mại, trong trẻo như nhật ký cá nhân hoặc một trang lưu giữ kỷ niệm học tập. Ưu tiên màu hồng pastel, kem, trắng, tím nhạt và xanh baby nhẹ; có thể dùng font mềm mại, họa tiết hoa nhỏ, mây, sao, trái tim, nơ hoặc sticker cute bằng HTML/CSS. Không sử dụng avatar, ảnh đại diện hoặc ảnh cá nhân; nếu cần điểm nhấn thị giác, dùng minh họa học thuật/giáo dục hoặc pattern được tạo bằng HTML/CSS.

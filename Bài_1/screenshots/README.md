@@ -1,12 +1,12 @@
 # Screenshots - Bài 1
 
-Ảnh minh chứng của Bài 1 hiện đang nằm trong file PDF tại:
+Ảnh minh chứng của Bài 1 được render từ file PDF tại:
 
 `../san_pham/Bài_1.pdf`
 
-Codex không cần yêu cầu người dùng tách toàn bộ ảnh thủ công.
+Trạng thái hiện tại: Website dùng trang 4 để tránh các trang có ví dụ `NguyenVanA`.
 
-Khi xây dựng website, hãy đọc PDF và chọn 1-3 trang tiêu biểu nhất để render thành ảnh PNG/JPG đưa vào website.
+Trang đã render: trang 4.
 
 Ưu tiên chọn trang có:
 - cấu trúc thư mục,

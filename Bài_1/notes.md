@@ -22,6 +22,10 @@ Sản phẩm cuối cùng của bài tập là file PDF trình bày cấu trúc 
 File sản phẩm:
 - `san_pham/Bài_1.pdf`
 
+Trạng thái kiểm tra:
+- PDF đã được người dùng chỉnh lại.
+- Website dùng trang 4 làm minh chứng để tránh các trang có ví dụ `NguyenVanA`.
+
 ## 4. Minh chứng có trong PDF
 
 PDF sản phẩm đã chứa các minh chứng như:
@@ -31,12 +35,10 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Mô tả quy tắc tổ chức thư mục.
 - Giải thích lý do lựa chọn cách sắp xếp dữ liệu.
 
-Codex cần đọc PDF này và chọn 1-3 trang tiêu biểu nhất để render thành ảnh minh chứng đưa lên website.
+Đã render trang được chọn thành ảnh minh chứng cho website.
 
 Trang minh chứng đã chọn cho website:
-- Trang 1
-- Trang 6
-- Trang 18
+- Trang 4
 
 ## 5. Kỹ năng đã học được
 
@@ -50,7 +52,7 @@ Trang minh chứng đã chọn cho website:
 
 Trên website, cần nhấn mạnh rằng bài tập này không chỉ là tạo thư mục, mà là bước đầu hình thành thói quen quản lý dữ liệu học tập một cách chuyên nghiệp.
 
-Nên hiển thị trực tiếp 1-3 ảnh render từ PDF, ưu tiên trang có:
+Ưu tiên hiển thị trang không chứa ví dụ tên người khác, có:
 - cấu trúc thư mục,
 - quy tắc đặt tên file,
 - phần giải thích lý do tổ chức dữ liệu.

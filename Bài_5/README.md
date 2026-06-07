@@ -12,13 +12,12 @@ Nội dung chính:
 
 File quan trọng:
 - `notes.md`: mô tả mục tiêu, quá trình, sản phẩm và kỹ năng học được.
-- `san_pham/Bài_5.pdf`: sản phẩm cuối cùng của bài tập.
-- `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF hợp lệ.
+- `san_pham/Bài_5.pdf`: sản phẩm PDF đã được người dùng chỉnh lại.
+- `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF.
 
 Trạng thái dữ liệu:
-- Đã có PDF hợp lệ cho bài này.
-- Không phát hiện thông tin sinh viên cũ qua trích xuất text.
+- Website dùng trang 1, 3 và 6 làm minh chứng.
 
-Khi tạo website, Codex cần dùng PDF làm nguồn chính và render trang tiêu biểu để hiển thị trong phần dự án.
+Khi tạo website, Codex dùng các trang đã chọn trong `EVIDENCE_SELECTION.md`.
 
 Ưu tiên trình bày bài này theo hướng trực quan, làm nổi bật sản phẩm cuối cùng và quy trình AI hỗ trợ sáng tạo.

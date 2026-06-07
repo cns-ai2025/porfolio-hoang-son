@@ -25,6 +25,10 @@ Sản phẩm cuối cùng là file PDF trình bày bộ nguyên tắc cá nhân 
 File sản phẩm:
 - `san_pham/Bài_6.pdf`
 
+Trạng thái kiểm tra:
+- PDF đã được người dùng chỉnh lại.
+- Website dùng trang 1, 4 và 5 làm minh chứng.
+
 ## 4. Minh chứng có trong PDF
 
 PDF sản phẩm đã chứa các minh chứng như:
@@ -35,12 +39,12 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Giải pháp cá nhân để sử dụng AI đúng cách.
 - Nhận xét về vai trò của AI trong quá trình học tập.
 
-Codex cần đọc PDF này và chọn 1-3 trang tiêu biểu nhất để render thành ảnh minh chứng đưa lên website.
+Đã render các trang được chọn thành ảnh minh chứng cho website.
 
 Trang minh chứng đã chọn cho website:
 - Trang 1
-- Trang 2
-- Trang 3
+- Trang 4
+- Trang 5
 
 Ưu tiên chọn trang có:
 - bộ 5-7 nguyên tắc sử dụng AI có trách nhiệm,

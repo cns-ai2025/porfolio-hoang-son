@@ -11,7 +11,7 @@ Nội dung chính:
 
 File quan trọng:
 - `notes.md`: mô tả mục tiêu, quá trình, sản phẩm và kỹ năng học được.
-- `san_pham/Bài_2.pdf`: sản phẩm cuối cùng của bài tập.
+- `san_pham/Bài_2.pdf`: sản phẩm PDF đã được người dùng chỉnh lại.
 - `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF.
 
-Khi tạo website, Codex cần dùng PDF làm nguồn chính và render 1-3 trang tiêu biểu để hiển thị trong phần dự án.
+Trạng thái hiện tại: Website dùng trang 1, 2 và 4 làm minh chứng.

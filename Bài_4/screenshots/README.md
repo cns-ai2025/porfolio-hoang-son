@@ -1,12 +1,12 @@
 # Screenshots - Bài 4
 
-Ảnh minh chứng của Bài 4 hiện đang nằm trong file PDF tại:
+Ảnh minh chứng của Bài 4 được render từ file PDF tại:
 
 `../san_pham/Bài_4.pdf`
 
-Codex không cần yêu cầu người dùng tách toàn bộ ảnh thủ công.
+Trạng thái hiện tại: Website chỉ dùng trang 5 vì các trang khác có thông tin thành viên nhóm khác.
 
-Khi xây dựng website, hãy đọc PDF và chọn 1-3 trang tiêu biểu nhất để render thành ảnh PNG/JPG đưa vào website.
+Trang đã render: trang 5.
 
 Ưu tiên chọn trang có:
 - giao diện công cụ hợp tác trực tuyến,
