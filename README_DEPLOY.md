@@ -2,16 +2,13 @@
 
 ## Trạng thái deploy
 
-Website tĩnh trong `output-site/` được cập nhật thành portfolio của Bùi Thị Huyền Linh.
+Website tĩnh trong `output-site/` đã được đồng bộ theo portfolio của Hoàng Bảo Sơn.
 
 ## Cấu trúc website
 
 - `index.html`: nội dung portfolio một trang.
-- `style.css`: thiết kế editorial / magazine layout với nền kem giấy, hồng phấn, olive đậm, typography serif thanh lịch và texture giấy nhẹ bằng CSS.
+- `style.css`: thiết kế Modern Tech & Professional với xanh dương đậm, trắng và xám.
 - `script.js`: menu mobile, thanh tiến độ đọc, active nav và hiệu ứng reveal nhẹ.
-- `images/avatar-BuiThiHuyenLinh.jpg`: avatar phục vụ đường dẫn `/images/avatar-BuiThiHuyenLinh.jpg` khi deploy static.
-
-Chỉ sử dụng avatar đã được cung cấp; không sử dụng asset minh chứng cũ.
 
 ## Deploy GitHub Pages
 

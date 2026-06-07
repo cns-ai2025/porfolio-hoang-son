@@ -1,39 +1,37 @@
 # Thông tin cá nhân
 
-Họ và tên: Bùi Thị Huyền Linh
+Họ và tên: Hoàng Bảo Sơn
 
-Mã sinh viên: Chưa được cung cấp
+Ngành học: Kỹ thuật Công nghiệp và Logistics
 
-Ngành học: Y Khoa
-
-Trường: Trường Đại học Y Dược - Đại học Quốc gia Hà Nội
+Trường: Trường Quốc tế – Đại học Quốc gia Hà Nội (IS-VNU)
 
 Sở thích:
-- Âm nhạc.
-- Thể thao.
+- Công nghệ
+- AI
+- Logistics
+- Thiết kế kỹ thuật
+- AutoCAD
+- Tìm hiểu các xu hướng chuyển đổi số trong doanh nghiệp
 
 Mục tiêu học tập:
-Mục tiêu học tập của em là tối ưu hóa điểm số để đạt GPA cao, đồng thời tích cực hoàn thiện các chứng chỉ kỹ năng bổ trợ. Bên cạnh kiến thức chuyên ngành, em cũng chú trọng nâng cao năng lực ngoại ngữ để mở rộng khả năng tiếp cận tài liệu quốc tế và chuẩn bị tốt hơn cho con đường học tập lâu dài trong lĩnh vực y khoa.
+Nâng cao kiến thức chuyên môn về quản lý chuỗi cung ứng và logistics, phát triển kỹ năng công nghệ số, đạt kết quả học tập tốt và tích lũy kinh nghiệm thực tế thông qua các dự án, thực tập.
 
 Định hướng cá nhân:
-Em tin rằng học thuật là nền tảng quan trọng, nhưng kỹ năng mềm và trải nghiệm xã hội mới là yếu tố giúp bản thân bứt phá. Vì vậy, em định hướng phát triển bản thân theo hướng toàn diện: vững kiến thức chuyên môn, chủ động trong giao tiếp, biết hợp tác, biết lắng nghe và luôn sẵn sàng học hỏi từ môi trường xung quanh.
+Trở thành chuyên gia trong lĩnh vực Logistics và Quản lý Chuỗi cung ứng, có khả năng ứng dụng công nghệ và dữ liệu để tối ưu hóa hoạt động sản xuất, vận chuyển và kinh doanh.
 
-Câu giới thiệu đầu trang:
-MEDICAL STUDENT PORTFOLIO
+Điều tự hào về bản thân:
+Luôn chủ động học hỏi công nghệ mới, có tinh thần trách nhiệm trong công việc và không ngừng cải thiện kỹ năng của bản thân.
 
-Mục tiêu của Portfolio:
-Digital Portfolio này trình bày thông tin cá nhân, mục tiêu học tập, sở thích và định hướng phát triển của Bùi Thị Huyền Linh trong hành trình học ngành Y Khoa. Nội dung nhấn mạnh tinh thần học tập nghiêm túc, mong muốn hoàn thiện bản thân, nâng cao ngoại ngữ, phát triển kỹ năng bổ trợ và cân bằng đời sống qua âm nhạc, thể thao.
+Kỹ năng nổi bật:
+- AutoCAD
+- Microsoft Office
+- Làm việc nhóm
+- Tư duy phân tích
+- Sử dụng AI hỗ trợ học tập và nghiên cứu
 
-Giới thiệu bản thân:
-Em là Bùi Thị Huyền Linh, sinh viên ngành Y Khoa tại Trường Đại học Y Dược - Đại học Quốc gia Hà Nội. Với tinh thần học tập nghiêm túc và mong muốn không ngừng hoàn thiện bản thân, em xem hành trình học Y không chỉ là quá trình tiếp thu kiến thức chuyên môn mà còn là cơ hội rèn luyện sự kiên trì, trách nhiệm và lòng thấu cảm.
-
-Liên hệ:
-- Email: sshinehlinh@gmail.com
-- Phone: 0913572007
-
-Avatar:
-- File nguồn: `public/images/avatar-BuiThiHuyenLinh.jpg`
-- Đường dẫn trong code: `/images/avatar-BuiThiHuyenLinh.jpg`
+Hero subtitle:
+Sinh viên Kỹ thuật Công nghiệp và Logistics | Định hướng công nghệ, dữ liệu và chuỗi cung ứng
 
 Phong cách website mong muốn:
-Website cần mang phong cách editorial / magazine layout, tối giản nhưng sang, nền kem giấy, hồng phấn dusty pink và xanh olive đậm, phù hợp với portfolio cá nhân chuyên ngành Y Khoa nhưng không khô cứng. Ưu tiên typography serif thanh lịch, tiêu đề lớn thoáng, nhiều card dạng poster/slide, moodboard với khung chữ nhật, viền mảnh, avatar trong khung editorial và khoảng trắng rộng.
+Modern Tech & Professional, với màu chủ đạo xanh dương đậm, trắng, xám; giao diện tối giản, hiện đại, chuyên nghiệp; animation nhẹ khi cuộn trang; thẻ thông tin bo góc; icon công nghệ và logistics.

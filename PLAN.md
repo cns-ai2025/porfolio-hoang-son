@@ -3,67 +3,42 @@
 ## Thông tin cá nhân sử dụng cho website
 
 Website được xây dựng cho:
-- Họ và tên: Bùi Thị Huyền Linh
-- Ngành học: Y Khoa
-- Trường: Trường Đại học Y Dược - Đại học Quốc gia Hà Nội
-- Sở thích: âm nhạc, thể thao
-- Email: sshinehlinh@gmail.com
-- Số điện thoại: 0913572007
-- Avatar: `public/images/avatar-BuiThiHuyenLinh.jpg`, dùng trong code là `/images/avatar-BuiThiHuyenLinh.jpg`
+- Họ và tên: Hoàng Bảo Sơn
+- Ngành học: Kỹ thuật Công nghiệp và Logistics
+- Trường: Trường Quốc tế – Đại học Quốc gia Hà Nội (IS-VNU)
+- Sở thích: công nghệ, AI, logistics, thiết kế kỹ thuật, AutoCAD
 
 ## Mục tiêu học tập
 
-Mục tiêu học tập của em là tối ưu hóa điểm số để đạt GPA cao, đồng thời tích cực hoàn thiện các chứng chỉ kỹ năng bổ trợ.
-
-Bên cạnh kiến thức chuyên ngành, em cũng chú trọng nâng cao năng lực ngoại ngữ để mở rộng khả năng tiếp cận tài liệu quốc tế và chuẩn bị tốt hơn cho con đường học tập lâu dài trong lĩnh vực y khoa.
+Nâng cao kiến thức chuyên môn về quản lý chuỗi cung ứng và logistics, phát triển kỹ năng công nghệ số, đạt kết quả học tập tốt và tích lũy kinh nghiệm thực tế thông qua các dự án, thực tập.
 
 ## Định hướng cá nhân
 
-Em tin rằng học thuật là nền tảng quan trọng, nhưng kỹ năng mềm và trải nghiệm xã hội mới là yếu tố giúp bản thân bứt phá.
-
-Định hướng phát triển bản thân:
-- vững kiến thức chuyên môn
-- chủ động trong giao tiếp
-- biết hợp tác
-- biết lắng nghe
-- luôn sẵn sàng học hỏi từ môi trường xung quanh
+Trở thành chuyên gia trong lĩnh vực Logistics và Quản lý Chuỗi cung ứng, có khả năng ứng dụng công nghệ và dữ liệu để tối ưu hóa hoạt động sản xuất, vận chuyển và kinh doanh.
 
 ## Định hướng nội dung website
 
-Website cần nhấn mạnh hành trình học Y Khoa của Bùi Thị Huyền Linh theo tinh thần nghiêm túc, tinh tế và toàn diện: học thuật chắc, kỹ năng mềm tốt, ngoại ngữ tiến bộ, đời sống cân bằng qua âm nhạc và thể thao.
+Website cần nhấn mạnh hành trình học Kỹ thuật Công nghiệp và Logistics của Hoàng Bảo Sơn theo tinh thần hiện đại, chuyên nghiệp và thực tiễn.
 
 Nội dung website chỉ được dựa trên:
 - `personal-info.md`
-- PDF thật trong `Bài_1` đến `Bài_6` nếu không chứa thông tin sinh viên cũ hoặc dữ liệu cá nhân chưa được phép sử dụng
-- yêu cầu trong `Portfolio.pdf`
-
-Nếu thiếu minh chứng thật của Bùi Thị Huyền Linh, cập nhật `MISSING_INFO.md` và không tự tạo minh chứng thay thế.
+- PDF thật trong `Bài_1` đến `Bài_6`
 
 ## Phong cách thiết kế
 
 Phong cách mong muốn:
-- editorial / magazine layout
-- nền kem giấy, hồng phấn dusty pink, xanh olive đậm
-- tối giản, sang, nữ tính, nhẹ nhàng, hơi vintage
-- typography serif thanh lịch cho tiêu đề lớn, sans-serif gọn cho nội dung
-- card dạng poster/slide với viền mảnh và shadow rất nhẹ
-- avatar trong khung editorial, viền mảnh và shadow nhẹ
-
-Không dùng:
-- ảnh ngoài avatar đã được cung cấp
-- dữ liệu hoặc minh chứng của sinh viên cũ
-- nội dung cá nhân chưa được cung cấp
-- theme pastel cute của phiên bản trước
+- Modern Tech & Professional
+- xanh dương đậm, trắng, xám
+- tối giản, hiện đại, chuyên nghiệp
+- thẻ bo góc, hover mượt, animation cuộn nhẹ
 
 ## Trạng thái hiện tại
 
-- Đã chuẩn hóa toàn bộ project sang thông tin Bùi Thị Huyền Linh.
-- Website mới không sử dụng asset minh chứng cũ trong `assets/`.
-- Email và số điện thoại đã được cung cấp; mã sinh viên và lớp chưa được cung cấp nên ghi trong `MISSING_INFO.md`.
-- Đã tạo lại site tĩnh ở root và `output-site/` với giao diện editorial / magazine layout responsive.
-- Đã kiểm tra bằng Playwright ở desktop 1440x1000 và mobile 390x844.
+- Đã chuẩn hóa toàn bộ project sang thông tin Hoàng Bảo Sơn.
+- Website mới không dùng nội dung cũ của hồ sơ trước.
+- Section minh chứng học tập đang dùng 6 PDF thật trong `documents/`.
 
 ## Việc tiếp theo
 
-1. Nếu cần thêm minh chứng PDF vào website, xác minh từng file PDF trước khi liên kết hoặc render.
-2. Bổ sung email, số điện thoại, mã sinh viên hoặc lớp khi có dữ liệu chính thức.
+1. Bổ sung avatar hoặc liên hệ nếu có dữ liệu chính thức.
+2. Giữ đồng bộ root và `output-site/` khi chỉnh sửa tiếp theo.
