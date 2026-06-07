@@ -1,12 +1,12 @@
 # Screenshots - Bài 5
 
-Ảnh minh chứng của Bài 5 được render từ file PDF tại:
+Thư mục này dành cho ảnh minh chứng của Bài 5 nếu cần kiểm tra hoặc render lại từ file PDF tại:
 
 `../san_pham/Bài_5.pdf`
 
-Trạng thái hiện tại: Website dùng trang 1, 3 và 6.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh minh chứng từ bài này trong giao diện.
 
-Trang đã render: trang 1, 3 và 6.
+Trang đã chọn cho portfolio mới: chưa có.
 
 Ưu tiên chọn trang có:
 - sản phẩm nội dung số cuối cùng,

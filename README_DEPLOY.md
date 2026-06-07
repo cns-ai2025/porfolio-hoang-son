@@ -2,17 +2,16 @@
 
 ## Trạng thái deploy
 
-Website tĩnh trong `output-site/` đã được cập nhật thành portfolio của Lê Hoài An.
+Website tĩnh trong `output-site/` được cập nhật thành portfolio của Bùi Thị Huyền Linh.
 
 ## Cấu trúc website
 
 - `index.html`: nội dung portfolio một trang.
-- `style.css`: thiết kế pastel mềm mại với hồng pastel, kem, trắng, tím nhạt, xanh baby và điểm nhấn nhật ký học tập.
-- `script.js`: menu mobile, thanh tiến độ đọc và active nav.
-- `assets/images/evidence/`: ảnh minh chứng render từ các PDF đã cập nhật.
-- `assets/documents/`: PDF đầy đủ cho Bài 1 đến Bài 6.
+- `style.css`: thiết kế editorial / magazine layout với nền kem giấy, hồng phấn, olive đậm, typography serif thanh lịch và texture giấy nhẹ bằng CSS.
+- `script.js`: menu mobile, thanh tiến độ đọc, active nav và hiệu ứng reveal nhẹ.
+- `images/avatar-BuiThiHuyenLinh.jpg`: avatar phục vụ đường dẫn `/images/avatar-BuiThiHuyenLinh.jpg` khi deploy static.
 
-Không sử dụng avatar, ảnh đại diện hoặc ảnh cá nhân.
+Chỉ sử dụng avatar đã được cung cấp; không sử dụng asset minh chứng cũ.
 
 ## Deploy GitHub Pages
 

@@ -1,12 +1,12 @@
 # Screenshots - Bài 4
 
-Ảnh minh chứng của Bài 4 được render từ file PDF tại:
+Thư mục này dành cho ảnh minh chứng của Bài 4 nếu cần kiểm tra hoặc render lại từ file PDF tại:
 
 `../san_pham/Bài_4.pdf`
 
-Trạng thái hiện tại: Website chỉ dùng trang 5 vì các trang khác có thông tin thành viên nhóm khác.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh minh chứng từ bài này trong giao diện.
 
-Trang đã render: trang 5.
+Trang đã chọn cho portfolio mới: chưa có.
 
 Ưu tiên chọn trang có:
 - giao diện công cụ hợp tác trực tuyến,

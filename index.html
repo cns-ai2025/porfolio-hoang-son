@@ -1,411 +1,215 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="vi">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Digital Portfolio - Lê Hoài An</title>
-    <meta name="description" content="Digital Portfolio của Lê Hoài An, sinh viên ngành Khoa học giáo dục và khác tại Đại học Giáo dục - ĐHQGHN.">
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <a class="skip-link" href="#main">Bỏ qua điều hướng</a>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Digital Portfolio của Bùi Thị Huyền Linh, sinh viên ngành Y Khoa tại Trường Đại học Y Dược - Đại học Quốc gia Hà Nội.">
+  <title>Bùi Thị Huyền Linh | Medical Student Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500;600&family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="progress-bar" id="progressBar" aria-hidden="true"></div>
 
-    <header class="site-header">
-      <nav class="nav-shell" aria-label="Điều hướng chính">
-        <a class="brand-mark" href="#top" aria-label="Về đầu trang">
-          <span class="brand-seal">LHA</span>
-          <span>
-            <strong>Lê Hoài An</strong>
-            <small>Nhật ký học tập</small>
-          </span>
-        </a>
-        <button class="menu-toggle" type="button" aria-label="Mở menu" aria-expanded="false">
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
-        <div class="nav-links">
-          <a href="#gioi-thieu">Giới thiệu</a>
-          <a href="#muc-tieu">Mục tiêu</a>
-          <a href="#so-thich">Sở thích</a>
-          <a href="#dinh-huong">Định hướng</a>
-          <a href="#minh-chung">Minh chứng</a>
-          <a href="#loi-ket">Lời kết</a>
+  <header class="site-header" id="siteHeader">
+    <a class="brand-mark" href="#top" aria-label="Về đầu trang">BTHL</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="siteNav" aria-label="Mở menu">
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Điều hướng chính">
+      <a href="#contents">Contents</a>
+      <a href="#about">About</a>
+      <a href="#goals">Goals</a>
+      <a href="#interests">Interests</a>
+      <a href="#orientation">Orientation</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero section-shell" aria-labelledby="heroTitle">
+      <div class="hero-copy reveal">
+        <p class="eyebrow">Digital Portfolio / 2026</p>
+        <h1 class="hero-title" id="heroTitle">
+          <span>Medical</span>
+          <span class="outline">Student</span>
+          <span>Portfolio</span>
+        </h1>
+        <div class="hero-signature">
+          <p>Bùi Thị Huyền Linh</p>
+          <span>Y Khoa · Trường Đại học Y Dược - Đại học Quốc gia Hà Nội</span>
         </div>
-      </nav>
-      <div class="reading-line" aria-hidden="true"></div>
-    </header>
-
-    <main id="main">
-      <section id="top" class="hero section-band">
-        <div class="container hero-grid">
-          <div class="hero-copy">
-            <p class="eyebrow">Digital Portfolio</p>
-            <h1>Lê Hoài An</h1>
-            <p class="lead">
-              “Giữa những ngày học tập nhiều sắc màu, mình chọn lưu lại hành trình trưởng thành bằng sự dịu dàng, tò mò và một trái tim luôn muốn học thêm những điều mới.”
-            </p>
-            <p>
-              Sinh viên ngành Khoa học giáo dục và khác tại Đại học Giáo dục - ĐHQGHN, đang từng bước xây dựng một hành trình học tập mềm mại, có mục tiêu và giàu cảm hứng.
-            </p>
-            <div class="hero-actions" aria-label="Liên kết nhanh">
-              <a class="button primary" href="#muc-tieu">Xem mục tiêu</a>
-              <a class="button secondary" href="#dinh-huong">Xem định hướng</a>
-            </div>
-          </div>
-
-          <aside class="identity-card" aria-label="Thông tin học tập">
-            <div class="memory-window" aria-hidden="true">
-              <span class="sticker sticker-heart">♡</span>
-              <span class="sticker sticker-star">☆</span>
-              <span class="sticker sticker-note">♪</span>
-              <div class="bow"></div>
-              <div class="notebook">
-                <span></span>
-                <span></span>
-                <span></span>
-                <strong>Education</strong>
-              </div>
-            </div>
-            <div class="identity-details">
-              <p><span>Họ tên</span><strong>Lê Hoài An</strong></p>
-              <p><span>Ngành học</span><strong>Khoa học giáo dục và khác</strong></p>
-              <p><span>Trường</span><strong>Đại học Giáo dục - ĐHQGHN</strong></p>
-              <p><span>Sở thích</span><strong>Nghe nhạc, xem phim</strong></p>
-            </div>
-          </aside>
-        </div>
-      </section>
-
-      <section id="gioi-thieu" class="section-band">
-        <div class="container two-column">
-          <div>
-            <p class="eyebrow">Giới thiệu</p>
-            <h2>Một trang nhật ký nhỏ cho hành trình học tập</h2>
-            <p>
-              Em là Lê Hoài An, sinh viên ngành Khoa học giáo dục và khác tại Đại học Giáo dục - ĐHQGHN. Portfolio này được xây dựng như một nơi lưu lại quá trình học tập, những mục tiêu đang theo đuổi và cách em nhìn về tương lai trong lĩnh vực giáo dục.
-            </p>
-            <p>
-              Em mong muốn học tập bằng sự tò mò, biết lắng nghe và luôn giữ tinh thần dịu dàng với bản thân. Mỗi bài học, mỗi kỹ năng mới đều là một mảnh ghép nhỏ giúp em hiểu hơn về giáo dục và về người học.
-            </p>
-          </div>
-          <div class="focus-card">
-            <h3>Những điều An đang nuôi dưỡng</h3>
-            <ul class="tag-list">
-              <li>Khoa học giáo dục</li>
-              <li>Tư duy phản biện</li>
-              <li>Kỹ năng nghiên cứu</li>
-              <li>Công nghệ học tập</li>
-              <li>Kỹ năng mềm</li>
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      <section id="muc-tieu" class="section-band tinted">
-        <div class="container">
-          <p class="eyebrow">Mục tiêu học tập</p>
-          <h2>Học chắc nền tảng, học bằng sự chủ động</h2>
-          <p class="section-intro">
-            Em mong muốn xây dựng nền tảng kiến thức vững chắc trong lĩnh vực khoa học giáo dục, đồng thời rèn luyện tư duy phản biện, kỹ năng nghiên cứu và khả năng ứng dụng công nghệ vào học tập.
-          </p>
-          <div class="goal-grid">
-            <article class="paper-card">
-              <span class="card-index">01</span>
-              <h3>Nền tảng kiến thức</h3>
-              <p>Duy trì việc học đều đặn, hiểu chắc các khái niệm cốt lõi và biết kết nối kiến thức với những tình huống học tập thực tế.</p>
-            </article>
-            <article class="paper-card">
-              <span class="card-index">02</span>
-              <h3>Tư duy phản biện</h3>
-              <p>Tập đặt câu hỏi, nhìn vấn đề từ nhiều góc độ và đánh giá thông tin một cách cẩn trọng trước khi đưa ra nhận định.</p>
-            </article>
-            <article class="paper-card">
-              <span class="card-index">03</span>
-              <h3>Kỹ năng nghiên cứu</h3>
-              <p>Rèn cách tìm kiếm tài liệu, tổng hợp thông tin, trình bày kết quả học tập rõ ràng và có căn cứ.</p>
-            </article>
-            <article class="paper-card">
-              <span class="card-index">04</span>
-              <h3>Phát triển toàn diện</h3>
-              <p>Chủ động tham gia hoạt động học thuật, phát triển kỹ năng mềm và ứng dụng công nghệ để chuẩn bị cho công việc tương lai.</p>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section id="so-thich" class="section-band">
-        <div class="container hobby-grid">
-          <div>
-            <p class="eyebrow">Sở thích</p>
-            <h2>Những khoảng lặng dịu dàng sau giờ học</h2>
-            <p>
-              Nghe nhạc và xem phim là hai sở thích giúp em cân bằng cảm xúc, nghỉ ngơi nhẹ nhàng và có thêm cảm hứng quan sát con người, câu chuyện và cách mỗi người học hỏi từ cuộc sống.
-            </p>
-          </div>
-          <div class="hobby-cards">
-            <article class="mini-card">
-              <span class="soft-icon">♪</span>
-              <h3>Nghe nhạc</h3>
-              <p>Một cách nhỏ để làm dịu nhịp ngày, sắp xếp lại suy nghĩ và giữ cho việc học có thêm màu sắc.</p>
-            </article>
-            <article class="mini-card">
-              <span class="soft-icon">▱</span>
-              <h3>Xem phim</h3>
-              <p>Một khoảng thời gian để lắng nghe câu chuyện, quan sát cảm xúc và mở rộng góc nhìn về con người.</p>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section id="dinh-huong" class="section-band tinted">
-        <div class="container">
-          <p class="eyebrow">Định hướng cá nhân</p>
-          <h2>Trở thành người làm giáo dục biết lắng nghe và luôn đổi mới</h2>
-          <div class="timeline">
-            <article>
-              <span>Tư duy nghề nghiệp</span>
-              <p>Trong tương lai, em định hướng trở thành một người làm việc trong lĩnh vực giáo dục có tư duy sáng tạo, biết lắng nghe và luôn đổi mới.</p>
-            </article>
-            <article>
-              <span>Môi trường học tập</span>
-              <p>Em mong muốn góp phần xây dựng môi trường học tập tích cực, gần gũi và truyền cảm hứng cho người học.</p>
-            </article>
-            <article>
-              <span>Phát triển bản thân</span>
-              <p>Em muốn tiếp tục học ngoại ngữ, công nghệ và rèn các kỹ năng giao tiếp, tổ chức để chuẩn bị tốt hơn cho hành trình nghề nghiệp.</p>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section id="minh-bach" class="section-band">
-        <div class="container two-column">
-          <div>
-            <p class="eyebrow">Minh bạch học tập</p>
-            <h2>Nội dung được trình bày từ dữ liệu đã có</h2>
-            <p>
-              Portfolio chỉ sử dụng thông tin cá nhân đã được cung cấp và các tài liệu học tập hợp lệ trong project. Những dữ liệu chưa có như mã sinh viên, email, số điện thoại, lớp hoặc ảnh cá nhân không được tự suy diễn và không đưa vào giao diện.
-            </p>
-          </div>
-          <div class="focus-card">
-            <h3>Nguyên tắc giữ lại</h3>
-            <ul class="check-list">
-              <li>Không dùng ảnh người thật hoặc avatar cá nhân.</li>
-              <li>Không tạo minh chứng giả.</li>
-              <li>Không hiển thị thông tin chưa được cung cấp.</li>
-              <li>Không dùng nội dung cá nhân của sinh viên cũ.</li>
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      <section id="minh-chung" class="section-band tinted projects">
-        <div class="container">
-          <p class="eyebrow">Minh chứng học tập</p>
-          <h2>Những bài thực hành trong hành trình năng lực số</h2>
-          <p class="section-intro">
-            Các minh chứng dưới đây được render từ PDF đã được cập nhật trong Bài 1 đến Bài 6. Mỗi bài có ảnh trang tiêu biểu và liên kết PDF đầy đủ để người xem có thể theo dõi sản phẩm học tập.
-          </p>
-
-          <div class="project-stack">
-            <article class="project-card">
-              <div class="project-head">
-                <span>Bài 1</span>
-                <h3>Quản lý tệp và thư mục</h3>
-              </div>
-              <div class="project-body">
-                <div class="project-copy">
-                  <p><strong>Mục tiêu:</strong> Rèn thao tác cơ bản với tệp tin và thư mục, biết cách tổ chức dữ liệu học tập khoa học.</p>
-                  <p><strong>Kỹ năng:</strong> Quản lý tài liệu, đặt tên rõ ràng, thao tác xóa, khôi phục và lưu trữ có hệ thống.</p>
-                </div>
-                <div class="evidence-panel">
-                  <h4>Minh chứng tiêu biểu</h4>
-                  <p>Trang 4</p>
-                  <div class="evidence-grid">
-                    <figure>
-                      <img src="assets/images/evidence/bai-1-trang-4.png" alt="Minh chứng Bài 1 trang 4">
-                      <figcaption>Trang 4</figcaption>
-                    </figure>
-                  </div>
-                  <a class="button secondary pdf-link" href="assets/documents/bai-1.pdf" target="_blank" rel="noopener">Xem PDF đầy đủ</a>
-                </div>
-              </div>
-            </article>
-
-            <article class="project-card">
-              <div class="project-head">
-                <span>Bài 2</span>
-                <h3>Tìm kiếm và đánh giá thông tin học thuật</h3>
-              </div>
-              <div class="project-body">
-                <div class="project-copy">
-                  <p><strong>Mục tiêu:</strong> Luyện kỹ năng tìm kiếm, chọn lọc và đánh giá độ tin cậy của nguồn học thuật.</p>
-                  <p><strong>Kỹ năng:</strong> Xây dựng chiến lược tìm kiếm, đọc nguồn, so sánh tài liệu và tổng hợp nhận xét có căn cứ.</p>
-                </div>
-                <div class="evidence-panel">
-                  <h4>Minh chứng tiêu biểu</h4>
-                  <p>Trang 1, 2, 4</p>
-                  <div class="evidence-grid">
-                    <figure>
-                      <img src="assets/images/evidence/bai-2-trang-1.png" alt="Minh chứng Bài 2 trang 1">
-                      <figcaption>Trang 1</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-2-trang-2.png" alt="Minh chứng Bài 2 trang 2">
-                      <figcaption>Trang 2</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-2-trang-4.png" alt="Minh chứng Bài 2 trang 4">
-                      <figcaption>Trang 4</figcaption>
-                    </figure>
-                  </div>
-                  <a class="button secondary pdf-link" href="assets/documents/bai-2.pdf" target="_blank" rel="noopener">Xem PDF đầy đủ</a>
-                </div>
-              </div>
-            </article>
-
-            <article class="project-card">
-              <div class="project-head">
-                <span>Bài 3</span>
-                <h3>Viết prompt hiệu quả cho học tập</h3>
-              </div>
-              <div class="project-body">
-                <div class="project-copy">
-                  <p><strong>Mục tiêu:</strong> Hiểu cách thiết kế prompt rõ bối cảnh, vai trò, định dạng và tiêu chí đánh giá.</p>
-                  <p><strong>Kỹ năng:</strong> Đặt câu hỏi có cấu trúc, thử nghiệm phản hồi AI, so sánh kết quả và cải tiến cách học.</p>
-                </div>
-                <div class="evidence-panel">
-                  <h4>Minh chứng tiêu biểu</h4>
-                  <p>Trang 1, 5, 8</p>
-                  <div class="evidence-grid">
-                    <figure>
-                      <img src="assets/images/evidence/bai-3-trang-1.png" alt="Minh chứng Bài 3 trang 1">
-                      <figcaption>Trang 1</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-3-trang-5.png" alt="Minh chứng Bài 3 trang 5">
-                      <figcaption>Trang 5</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-3-trang-8.png" alt="Minh chứng Bài 3 trang 8">
-                      <figcaption>Trang 8</figcaption>
-                    </figure>
-                  </div>
-                  <a class="button secondary pdf-link" href="assets/documents/bai-3.pdf" target="_blank" rel="noopener">Xem PDF đầy đủ</a>
-                </div>
-              </div>
-            </article>
-
-            <article class="project-card">
-              <div class="project-head">
-                <span>Bài 4</span>
-                <h3>Giao tiếp và hợp tác trong môi trường số</h3>
-              </div>
-              <div class="project-body">
-                <div class="project-copy">
-                  <p><strong>Mục tiêu:</strong> Rèn kỹ năng tổ chức họp trực tuyến, phối hợp nhóm và thống nhất nhiệm vụ trong môi trường số.</p>
-                  <p><strong>Kỹ năng:</strong> Giao tiếp số, theo dõi tiến độ, ghi nhận kết quả thảo luận và rút kinh nghiệm sau hoạt động nhóm.</p>
-                </div>
-                <div class="evidence-panel">
-                  <h4>Minh chứng tiêu biểu</h4>
-                  <p>Trang 5</p>
-                  <div class="evidence-grid">
-                    <figure>
-                      <img src="assets/images/evidence/bai-4-trang-5.png" alt="Minh chứng Bài 4 trang 5">
-                      <figcaption>Trang 5</figcaption>
-                    </figure>
-                  </div>
-                  <a class="button secondary pdf-link" href="assets/documents/bai-4.pdf" target="_blank" rel="noopener">Xem PDF đầy đủ</a>
-                </div>
-              </div>
-            </article>
-
-            <article class="project-card">
-              <div class="project-head">
-                <span>Bài 5</span>
-                <h3>Sáng tạo nội dung số với AI</h3>
-              </div>
-              <div class="project-body">
-                <div class="project-copy">
-                  <p><strong>Mục tiêu:</strong> Sử dụng AI tạo sinh để hỗ trợ lên ý tưởng, tạo nội dung và hoàn thiện sản phẩm số.</p>
-                  <p><strong>Kỹ năng:</strong> Viết prompt, đánh giá đầu ra AI, chỉnh sửa nội dung và trình bày sản phẩm học tập bằng công cụ số.</p>
-                </div>
-                <div class="evidence-panel">
-                  <h4>Minh chứng tiêu biểu</h4>
-                  <p>Trang 1, 3, 6</p>
-                  <div class="evidence-grid">
-                    <figure>
-                      <img src="assets/images/evidence/bai-5-trang-1.png" alt="Minh chứng Bài 5 trang 1">
-                      <figcaption>Trang 1</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-5-trang-3.png" alt="Minh chứng Bài 5 trang 3">
-                      <figcaption>Trang 3</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-5-trang-6.png" alt="Minh chứng Bài 5 trang 6">
-                      <figcaption>Trang 6</figcaption>
-                    </figure>
-                  </div>
-                  <a class="button secondary pdf-link" href="assets/documents/bai-5.pdf" target="_blank" rel="noopener">Xem PDF đầy đủ</a>
-                </div>
-              </div>
-            </article>
-
-            <article class="project-card">
-              <div class="project-head">
-                <span>Bài 6</span>
-                <h3>Sử dụng AI có trách nhiệm trong học tập</h3>
-              </div>
-              <div class="project-body">
-                <div class="project-copy">
-                  <p><strong>Mục tiêu:</strong> Nhận diện rủi ro khi dùng AI và xây dựng nguyên tắc cá nhân để giữ liêm chính học thuật.</p>
-                  <p><strong>Kỹ năng:</strong> Kiểm chứng thông tin, phân biệt hỗ trợ hợp lý với gian lận và sử dụng AI minh bạch.</p>
-                </div>
-                <div class="evidence-panel">
-                  <h4>Minh chứng tiêu biểu</h4>
-                  <p>Trang 1, 4, 5</p>
-                  <div class="evidence-grid">
-                    <figure>
-                      <img src="assets/images/evidence/bai-6-trang-1.png" alt="Minh chứng Bài 6 trang 1">
-                      <figcaption>Trang 1</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-6-trang-4.png" alt="Minh chứng Bài 6 trang 4">
-                      <figcaption>Trang 4</figcaption>
-                    </figure>
-                    <figure>
-                      <img src="assets/images/evidence/bai-6-trang-5.png" alt="Minh chứng Bài 6 trang 5">
-                      <figcaption>Trang 5</figcaption>
-                    </figure>
-                  </div>
-                  <a class="button secondary pdf-link" href="assets/documents/bai-6.pdf" target="_blank" rel="noopener">Xem PDF đầy đủ</a>
-                </div>
-              </div>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section id="loi-ket" class="section-band">
-        <div class="container conclusion">
-          <p class="eyebrow">Lời kết</p>
-          <h2>Một hành trình học tập được lưu lại bằng sự dịu dàng</h2>
-          <p>
-            Portfolio này ghi lại định hướng của Lê Hoài An: học chắc nền tảng khoa học giáo dục, rèn tư duy phản biện và kỹ năng nghiên cứu, ứng dụng công nghệ vào học tập và từng bước trở thành một người làm giáo dục sáng tạo, biết lắng nghe, luôn đổi mới.
-          </p>
-        </div>
-      </section>
-    </main>
-
-    <footer class="site-footer">
-      <div class="container footer-grid">
-        <p>Digital Portfolio - Lê Hoài An</p>
-        <a href="#top">Trở về đầu trang</a>
       </div>
-    </footer>
 
-    <script src="script.js"></script>
-  </body>
+      <div class="hero-visual reveal">
+        <div class="visual-frame">
+          <div class="visual-topline">
+            <span>Y KHOA</span>
+            <span>EDITORIAL PROFILE</span>
+          </div>
+          <div class="avatar-window">
+            <img src="./images/avatar-BuiThiHuyenLinh.jpg" alt="Avatar của Bùi Thị Huyền Linh">
+            <div class="avatar-caption">
+              <span>Medical Student</span>
+              <strong>Bùi Thị Huyền Linh</strong>
+            </div>
+          </div>
+          <div class="visual-footer">
+            <span>academic</span>
+            <span>soft skills</span>
+            <span>growth</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell contents-section reveal" id="contents" aria-labelledby="contentsTitle">
+      <div class="section-heading">
+        <span class="section-number">00</span>
+        <div>
+          <p class="eyebrow">Contents</p>
+          <h2 id="contentsTitle">Portfolio Index</h2>
+        </div>
+      </div>
+      <div class="contents-list">
+        <a class="content-row" href="#about">
+          <span>01</span>
+          <strong>About Me</strong>
+          <small>Hành trình học Y và tinh thần hoàn thiện bản thân</small>
+          <i aria-hidden="true">→</i>
+        </a>
+        <a class="content-row" href="#goals">
+          <span>02</span>
+          <strong>Academic Goals</strong>
+          <small>GPA, chứng chỉ bổ trợ và năng lực ngoại ngữ</small>
+          <i aria-hidden="true">→</i>
+        </a>
+        <a class="content-row" href="#interests">
+          <span>03</span>
+          <strong>My Interests</strong>
+          <small>Âm nhạc và thể thao trong đời sống học tập</small>
+          <i aria-hidden="true">→</i>
+        </a>
+        <a class="content-row" href="#orientation">
+          <span>04</span>
+          <strong>Personal Orientation</strong>
+          <small>Học thuật, kỹ năng mềm và trải nghiệm xã hội</small>
+          <i aria-hidden="true">→</i>
+        </a>
+        <a class="content-row" href="#contact">
+          <span>05</span>
+          <strong>Contact</strong>
+          <small>Email và số điện thoại liên hệ</small>
+          <i aria-hidden="true">→</i>
+        </a>
+      </div>
+    </section>
+
+    <section class="section-shell portfolio-grid" aria-label="Nội dung portfolio">
+      <article class="poster-card span-7 reveal" id="about">
+        <div class="card-meta">
+          <span>01</span>
+          <span>About Me</span>
+        </div>
+        <h2>About Me</h2>
+        <p>Em là Bùi Thị Huyền Linh, sinh viên ngành Y Khoa tại Trường Đại học Y Dược - Đại học Quốc gia Hà Nội. Với tinh thần học tập nghiêm túc và mong muốn không ngừng hoàn thiện bản thân, em xem hành trình học Y không chỉ là quá trình tiếp thu kiến thức chuyên môn mà còn là cơ hội rèn luyện sự kiên trì, trách nhiệm và lòng thấu cảm.</p>
+        <div class="fine-line"></div>
+        <p class="soft-note">A quiet practice of learning, listening and growing with purpose.</p>
+      </article>
+
+      <article class="poster-card span-5 mission-card reveal" id="mission">
+        <div class="card-meta">
+          <span>02</span>
+          <span>Mission</span>
+        </div>
+        <div class="line-art-circle" aria-hidden="true"></div>
+        <h2>Mission</h2>
+        <p class="mission-text">Giữ nền tảng học thuật vững chắc, rèn kỹ năng mềm mỗi ngày và nuôi dưỡng sự thấu cảm trong từng lựa chọn học tập.</p>
+      </article>
+
+      <article class="poster-card span-8 reveal" id="goals">
+        <div class="card-meta">
+          <span>03</span>
+          <span>Academic Goals</span>
+        </div>
+        <h2>Academic Goals</h2>
+        <p>Mục tiêu học tập của em là tối ưu hóa điểm số để đạt GPA cao, đồng thời tích cực hoàn thiện các chứng chỉ kỹ năng bổ trợ. Bên cạnh kiến thức chuyên ngành, em cũng chú trọng nâng cao năng lực ngoại ngữ để mở rộng khả năng tiếp cận tài liệu quốc tế và chuẩn bị tốt hơn cho con đường học tập lâu dài trong lĩnh vực y khoa.</p>
+        <ul class="goal-list" aria-label="Các trọng tâm học tập">
+          <li><span>GPA</span><strong>Tối ưu hóa điểm số</strong></li>
+          <li><span>Skills</span><strong>Hoàn thiện chứng chỉ bổ trợ</strong></li>
+          <li><span>Language</span><strong>Nâng cao năng lực ngoại ngữ</strong></li>
+        </ul>
+      </article>
+
+      <article class="poster-card span-4 interests-card reveal" id="interests">
+        <div class="card-meta">
+          <span>04</span>
+          <span>My Interests</span>
+        </div>
+        <h2>My Interests</h2>
+        <p>Ngoài học tập, em yêu thích âm nhạc và thể thao. Âm nhạc giúp em cân bằng cảm xúc, thư giãn sau những giờ học căng thẳng, còn thể thao giúp em duy trì sức khỏe, rèn luyện tính kỷ luật và tinh thần bền bỉ.</p>
+        <div class="interest-lines">
+          <div class="interest-line">
+            <span class="music-mark" aria-hidden="true"></span>
+            <strong>Âm nhạc</strong>
+          </div>
+          <div class="interest-line">
+            <span class="sport-mark" aria-hidden="true"></span>
+            <strong>Thể thao</strong>
+          </div>
+        </div>
+      </article>
+
+      <article class="poster-card span-7 orientation-card reveal" id="orientation">
+        <div class="card-meta">
+          <span>05</span>
+          <span>Personal Orientation</span>
+        </div>
+        <h2>Personal Orientation</h2>
+        <p>Em tin rằng học thuật là nền tảng quan trọng, nhưng kỹ năng mềm và trải nghiệm xã hội mới là yếu tố giúp bản thân bứt phá. Vì vậy, em định hướng phát triển bản thân theo hướng toàn diện: vững kiến thức chuyên môn, chủ động trong giao tiếp, biết hợp tác, biết lắng nghe và luôn sẵn sàng học hỏi từ môi trường xung quanh.</p>
+        <div class="orientation-tags" aria-label="Định hướng phát triển">
+          <span>Kiến thức chuyên môn</span>
+          <span>Giao tiếp</span>
+          <span>Hợp tác</span>
+          <span>Lắng nghe</span>
+          <span>Học hỏi</span>
+        </div>
+      </article>
+
+      <article class="poster-card span-5 contact-card reveal" id="contact">
+        <div class="card-meta">
+          <span>06</span>
+          <span>Contact</span>
+        </div>
+        <h2>Contact</h2>
+        <div class="contact-list">
+          <div>
+            <span>Email</span>
+            <strong><a href="mailto:sshinehlinh@gmail.com">sshinehlinh@gmail.com</a></strong>
+          </div>
+          <div>
+            <span>Phone</span>
+            <strong><a href="tel:0913572007">0913572007</a></strong>
+          </div>
+        </div>
+        <div class="contact-actions" aria-label="Nút liên hệ">
+          <a href="mailto:sshinehlinh@gmail.com">Mail</a>
+          <a href="tel:0913572007">Phone</a>
+        </div>
+        <p class="contact-note">Có thể liên hệ qua email hoặc số điện thoại đã cung cấp.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>Bùi Thị Huyền Linh</span>
+    <span>Medical Student Portfolio</span>
+    <span id="year">2026</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
 </html>

@@ -1,6 +1,6 @@
 # MISSING_INFO.md
 
-File này dùng để ghi lại thông tin còn thiếu trong quá trình xây dựng Digital Portfolio của Lê Hoài An.
+File này dùng để ghi lại thông tin còn thiếu trong quá trình xây dựng Digital Portfolio của Bùi Thị Huyền Linh.
 
 Codex cần cập nhật file này nếu phát hiện thiếu dữ liệu.
 
@@ -9,21 +9,20 @@ Tuyệt đối không được bịa nội dung để lấp phần thiếu.
 ## Trạng thái kiểm tra
 
 - Thông tin cá nhân cốt lõi: Đã có trong `personal-info.md`, gồm họ tên, ngành học, trường, sở thích, mục tiêu học tập và định hướng cá nhân.
-- Ảnh cá nhân/avatar: Không sử dụng theo yêu cầu mới.
+- Avatar: Đã có file `public/images/avatar-BuiThiHuyenLinh.jpg`; đường dẫn trong code là `/images/avatar-BuiThiHuyenLinh.jpg`.
 - File yêu cầu Portfolio: Đã có file `Portfolio.pdf` trong project.
-- PDF Bài 1 đến Bài 6: Người dùng xác nhận đã chỉnh lại các file trong `Bài_1/san_pham` đến `Bài_6/san_pham`.
-- Trang minh chứng PDF: Đã chọn lại trang an toàn trong `EVIDENCE_SELECTION.md`.
-- Ảnh minh chứng render từ PDF: Đã render lại từ các PDF mới.
-- PDF đầy đủ trong output-site: Đã copy đủ Bài 1 đến Bài 6 theo yêu cầu mới của người dùng.
+- PDF Bài 1 đến Bài 6: Có file trong các thư mục `Bài_1/san_pham` đến `Bài_6/san_pham`, nhưng website hiện tại không dùng làm minh chứng trực quan vì chưa cần cho bố cục người dùng yêu cầu và cần tránh dùng nhầm dữ liệu cá nhân không được phép.
+- Asset minh chứng cũ trong `assets/` và `output-site/assets/`: Không sử dụng cho portfolio mới.
 
 ## Thiếu hoặc cần xác nhận
 
-- Mã sinh viên của Lê Hoài An: Chưa được cung cấp.
+- Mã sinh viên của Bùi Thị Huyền Linh: Chưa được cung cấp.
 - Lớp, khóa, khoa/viện trực thuộc nếu cần hiển thị: Chưa được cung cấp.
-- Số điện thoại: Chưa được cung cấp.
-- Email: Chưa được cung cấp.
-- Ảnh trường, ảnh lớp học, ảnh học liệu hoặc ảnh phụ khác: Chưa có file nguồn hợp lệ; không sử dụng.
-- PDF Bài 4: Đã gắn link PDF đầy đủ theo yêu cầu mới của người dùng.
+- Email: Đã được cung cấp, `sshinehlinh@gmail.com`.
+- Số điện thoại: Đã được cung cấp, `0913572007`.
+- Ảnh cá nhân/avatar khác: Không sử dụng nếu chưa có ảnh thật và yêu cầu cho phép rõ ràng.
+- Ảnh trường, ảnh lớp học, ảnh học liệu hoặc ảnh phụ khác: Chưa có file nguồn hợp lệ; không sử dụng ảnh không rõ nguồn.
+- Minh chứng PDF riêng gắn với Bùi Thị Huyền Linh nếu cần đưa vào website: Cần xác nhận trước khi liên kết hoặc render.
 
 ## Nguyên tắc xử lý
 

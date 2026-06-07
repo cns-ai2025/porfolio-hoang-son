@@ -1,12 +1,12 @@
 # Screenshots - Bài 6
 
-Ảnh minh chứng của Bài 6 được render từ file PDF tại:
+Thư mục này dành cho ảnh minh chứng của Bài 6 nếu cần kiểm tra hoặc render lại từ file PDF tại:
 
 `../san_pham/Bài_6.pdf`
 
-Trạng thái hiện tại: Website dùng trang 1, 4 và 5.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh minh chứng từ bài này trong giao diện.
 
-Trang đã render: trang 1, 4 và 5.
+Trang đã chọn cho portfolio mới: chưa có.
 
 Ưu tiên chọn trang có:
 - bộ nguyên tắc cá nhân về sử dụng AI có trách nhiệm,

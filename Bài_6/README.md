@@ -12,9 +12,9 @@ Nội dung chính:
 
 File quan trọng:
 - `notes.md`: mô tả mục tiêu, quá trình, sản phẩm và kỹ năng học được.
-- `san_pham/Bài_6.pdf`: sản phẩm PDF đã được người dùng chỉnh lại.
-- `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF.
+- `san_pham/Bài_6.pdf`: sản phẩm PDF hiện có.
+- `screenshots/`: nơi lưu ảnh minh chứng nếu cần kiểm tra độc lập.
 
-Trạng thái hiện tại: Website dùng trang 1, 4 và 5 làm minh chứng.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện. Nếu cần đưa vào website sau này, phải kiểm tra PDF trước khi chọn trang.
 
 Ưu tiên trình bày bài này theo hướng “Bộ nguyên tắc AI cá nhân”, thể hiện rõ tư duy phản biện và trách nhiệm học thuật.

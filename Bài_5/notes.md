@@ -27,8 +27,8 @@ File sản phẩm:
 - `san_pham/Bài_5.pdf`
 
 Trạng thái kiểm tra:
-- PDF đã được người dùng chỉnh lại.
-- Website dùng trang 1, 3 và 6 làm minh chứng.
+- PDF hiện có trong thư mục `san_pham/`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện hiện tại.
 
 Nếu có sản phẩm rời, Codex cần ưu tiên liên kết hoặc hiển thị:
 - hình ảnh cuối cùng,
@@ -48,12 +48,9 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Sản phẩm nội dung số cuối cùng.
 - Nhận xét về vai trò của AI trong quá trình sáng tạo.
 
-Trang minh chứng đã chọn cho website:
-- Trang 1
-- Trang 3
-- Trang 6
+Chưa chọn trang minh chứng cho portfolio mới.
 
-Ưu tiên chọn trang có:
+Nếu cần đưa bài này vào website sau này, ưu tiên chọn trang có:
 - sản phẩm cuối cùng đẹp nhất,
 - prompt hoặc quy trình dùng AI,
 - hình ảnh/video/bài viết được tạo bởi AI,

@@ -10,7 +10,7 @@ Nội dung chính:
 
 File quan trọng:
 - `notes.md`: mô tả mục tiêu, quá trình, sản phẩm và kỹ năng học được.
-- `san_pham/Bài_1.pdf`: sản phẩm PDF đã được người dùng chỉnh lại.
-- `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF.
+- `san_pham/Bài_1.pdf`: sản phẩm PDF hiện có.
+- `screenshots/`: nơi lưu ảnh minh chứng nếu cần kiểm tra độc lập.
 
-Trạng thái hiện tại: Website dùng trang 4 làm minh chứng để tránh các trang có ví dụ `NguyenVanA`.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện. Nếu cần đưa vào website sau này, phải kiểm tra PDF trước khi chọn trang.

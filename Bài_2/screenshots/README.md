@@ -1,12 +1,12 @@
 # Screenshots - Bài 2
 
-Ảnh minh chứng của Bài 2 được render từ file PDF tại:
+Thư mục này dành cho ảnh minh chứng của Bài 2 nếu cần kiểm tra hoặc render lại từ file PDF tại:
 
 `../san_pham/Bài_2.pdf`
 
-Trạng thái hiện tại: Website dùng trang 1, 2 và 4.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh minh chứng từ bài này trong giao diện.
 
-Trang đã render: trang 1, 2 và 4.
+Trang đã chọn cho portfolio mới: chưa có.
 
 Ưu tiên chọn trang có:
 - câu truy vấn tìm kiếm nâng cao,

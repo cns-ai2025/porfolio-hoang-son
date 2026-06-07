@@ -23,8 +23,8 @@ File sản phẩm:
 - `san_pham/Bài_1.pdf`
 
 Trạng thái kiểm tra:
-- PDF đã được người dùng chỉnh lại.
-- Website dùng trang 4 làm minh chứng để tránh các trang có ví dụ `NguyenVanA`.
+- PDF hiện có trong thư mục `san_pham/`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện hiện tại.
 
 ## 4. Minh chứng có trong PDF
 
@@ -35,10 +35,7 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Mô tả quy tắc tổ chức thư mục.
 - Giải thích lý do lựa chọn cách sắp xếp dữ liệu.
 
-Đã render trang được chọn thành ảnh minh chứng cho website.
-
-Trang minh chứng đã chọn cho website:
-- Trang 4
+Chưa chọn trang minh chứng cho portfolio mới.
 
 ## 5. Kỹ năng đã học được
 
@@ -52,7 +49,7 @@ Trang minh chứng đã chọn cho website:
 
 Trên website, cần nhấn mạnh rằng bài tập này không chỉ là tạo thư mục, mà là bước đầu hình thành thói quen quản lý dữ liệu học tập một cách chuyên nghiệp.
 
-Ưu tiên hiển thị trang không chứa ví dụ tên người khác, có:
+Nếu cần đưa bài này vào website sau này, ưu tiên hiển thị trang có:
 - cấu trúc thư mục,
 - quy tắc đặt tên file,
 - phần giải thích lý do tổ chức dữ liệu.

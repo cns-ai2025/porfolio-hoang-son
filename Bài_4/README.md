@@ -12,13 +12,11 @@ Nội dung chính:
 
 File quan trọng:
 - `notes.md`: mô tả mục tiêu, quá trình, sản phẩm và kỹ năng học được.
-- `san_pham/Bài_4.pdf`: sản phẩm PDF đã được người dùng chỉnh lại.
-- `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF.
+- `san_pham/Bài_4.pdf`: sản phẩm PDF hiện có.
+- `screenshots/`: nơi lưu ảnh minh chứng nếu cần kiểm tra độc lập.
 
 Trạng thái dữ liệu:
-- Website chỉ dùng trang 5 làm minh chứng.
-- Website liên kết PDF đầy đủ theo yêu cầu mới của người dùng.
-
-Khi tạo website, Codex dùng trang 5 làm ảnh đại diện và gắn link PDF đầy đủ.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện.
+- Nếu cần đưa vào website sau này, phải kiểm tra PDF trước khi chọn trang.
 
 Ưu tiên trình bày bài này theo hướng “quy trình làm việc nhóm”, thể hiện rõ công cụ, phân công, tiến độ và kết quả phối hợp.

@@ -27,9 +27,8 @@ File sản phẩm:
 - `san_pham/Bài_4.pdf`
 
 Trạng thái kiểm tra:
-- PDF đã được người dùng chỉnh lại.
-- Website chỉ dùng trang 5 làm minh chứng.
-- Website liên kết PDF đầy đủ theo yêu cầu mới của người dùng.
+- PDF hiện có trong thư mục `san_pham/`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện hiện tại.
 
 ## 4. Minh chứng có trong PDF
 
@@ -41,10 +40,9 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Mô tả cách các thành viên phối hợp.
 - Nhận xét về hiệu quả của công cụ trong quá trình làm việc nhóm.
 
-Trang minh chứng đã chọn cho website:
-- Trang 5
+Chưa chọn trang minh chứng cho portfolio mới.
 
-Ưu tiên chọn trang có:
+Nếu cần đưa bài này vào website sau này, ưu tiên chọn trang có:
 - giao diện công cụ hợp tác trực tuyến,
 - bảng phân công nhiệm vụ,
 - trạng thái tiến độ công việc,

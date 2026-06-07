@@ -12,12 +12,11 @@ Nội dung chính:
 
 File quan trọng:
 - `notes.md`: mô tả mục tiêu, quá trình, sản phẩm và kỹ năng học được.
-- `san_pham/Bài_5.pdf`: sản phẩm PDF đã được người dùng chỉnh lại.
-- `screenshots/`: nơi lưu ảnh minh chứng nếu được tách hoặc render từ PDF.
+- `san_pham/Bài_5.pdf`: sản phẩm PDF hiện có.
+- `screenshots/`: nơi lưu ảnh minh chứng nếu cần kiểm tra độc lập.
 
 Trạng thái dữ liệu:
-- Website dùng trang 1, 3 và 6 làm minh chứng.
-
-Khi tạo website, Codex dùng các trang đã chọn trong `EVIDENCE_SELECTION.md`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện.
+- Nếu cần đưa vào website sau này, phải kiểm tra PDF trước khi chọn trang.
 
 Ưu tiên trình bày bài này theo hướng trực quan, làm nổi bật sản phẩm cuối cùng và quy trình AI hỗ trợ sáng tạo.

@@ -1,12 +1,12 @@
 # Screenshots - Bài 1
 
-Ảnh minh chứng của Bài 1 được render từ file PDF tại:
+Thư mục này dành cho ảnh minh chứng của Bài 1 nếu cần kiểm tra hoặc render lại từ file PDF tại:
 
 `../san_pham/Bài_1.pdf`
 
-Trạng thái hiện tại: Website dùng trang 4 để tránh các trang có ví dụ `NguyenVanA`.
+Trạng thái hiện tại: Portfolio mới không sử dụng ảnh minh chứng từ bài này trong giao diện.
 
-Trang đã render: trang 4.
+Trang đã chọn cho portfolio mới: chưa có.
 
 Ưu tiên chọn trang có:
 - cấu trúc thư mục,

@@ -31,8 +31,8 @@ File sản phẩm:
 - `san_pham/Bài_3.pdf`
 
 Trạng thái kiểm tra:
-- PDF đã được người dùng chỉnh lại.
-- Website dùng trang 1, 5 và 8 làm minh chứng.
+- PDF hiện có trong thư mục `san_pham/`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện hiện tại.
 
 ## 4. Minh chứng có trong PDF
 
@@ -44,14 +44,9 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Kết quả AI trả về từ prompt cải tiến.
 - Phần so sánh và giải thích vì sao prompt cải tiến hiệu quả hơn.
 
-Đã render các trang được chọn thành ảnh minh chứng cho website.
+Chưa chọn trang minh chứng cho portfolio mới.
 
-Trang minh chứng đã chọn cho website:
-- Trang 1
-- Trang 5
-- Trang 8
-
-Ưu tiên chọn trang có:
+Nếu cần đưa bài này vào website sau này, ưu tiên chọn trang có:
 - prompt ban đầu và prompt cải tiến đặt cạnh nhau,
 - kết quả AI trước và sau khi cải tiến,
 - bảng hoặc đoạn phân tích sự khác biệt,

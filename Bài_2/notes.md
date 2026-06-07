@@ -24,8 +24,8 @@ File sản phẩm:
 - `san_pham/Bài_2.pdf`
 
 Trạng thái kiểm tra:
-- PDF đã được người dùng chỉnh lại.
-- Website dùng trang 1, 2 và 4 làm minh chứng.
+- PDF hiện có trong thư mục `san_pham/`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện hiện tại.
 
 ## 4. Minh chứng có trong PDF
 
@@ -36,14 +36,9 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Bảng đánh giá nguồn tin.
 - Phần phân tích độ tin cậy và mức độ phù hợp của nguồn thông tin.
 
-Đã render các trang được chọn thành ảnh minh chứng cho website.
+Chưa chọn trang minh chứng cho portfolio mới.
 
-Trang minh chứng đã chọn cho website:
-- Trang 1
-- Trang 2
-- Trang 4
-
-Ưu tiên chọn trang có:
+Nếu cần đưa bài này vào website sau này, ưu tiên chọn trang có:
 - câu truy vấn tìm kiếm rõ ràng,
 - ảnh kết quả tìm kiếm,
 - bảng đánh giá nguồn tin,

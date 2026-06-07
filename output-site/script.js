@@ -1,48 +1,87 @@
-const menuButton = document.querySelector(".menu-toggle");
-const navLinks = document.querySelector(".nav-links");
-const readingLine = document.querySelector(".reading-line");
-const sectionLinks = Array.from(document.querySelectorAll(".nav-links a"));
+(function () {
+  const body = document.body;
+  const progressBar = document.getElementById("progressBar");
+  const menuToggle = document.querySelector(".menu-toggle");
+  const nav = document.getElementById("siteNav");
+  const navLinks = Array.from(document.querySelectorAll(".site-nav a"));
+  const year = document.getElementById("year");
 
-if (menuButton && navLinks) {
-  menuButton.addEventListener("click", () => {
-    const isOpen = navLinks.classList.toggle("is-open");
-    menuButton.setAttribute("aria-expanded", String(isOpen));
-  });
+  if (year) {
+    year.textContent = new Date().getFullYear().toString();
+  }
 
-  navLinks.addEventListener("click", (event) => {
-    if (event.target instanceof HTMLAnchorElement) {
-      navLinks.classList.remove("is-open");
-      menuButton.setAttribute("aria-expanded", "false");
-    }
-  });
-}
+  function setMenu(open) {
+    if (!menuToggle || !nav) return;
+    menuToggle.setAttribute("aria-expanded", String(open));
+    menuToggle.setAttribute("aria-label", open ? "Đóng menu" : "Mở menu");
+    nav.classList.toggle("is-open", open);
+    body.classList.toggle("nav-open", open);
+  }
 
-const updateReadingLine = () => {
-  if (!readingLine) return;
-  const pageHeight = document.documentElement.scrollHeight - window.innerHeight;
-  const progress = pageHeight > 0 ? (window.scrollY / pageHeight) * 100 : 0;
-  readingLine.style.width = `${Math.min(100, Math.max(0, progress))}%`;
-};
+  if (menuToggle && nav) {
+    menuToggle.addEventListener("click", () => {
+      const open = menuToggle.getAttribute("aria-expanded") !== "true";
+      setMenu(open);
+    });
 
-if ("IntersectionObserver" in window) {
-  const sectionObserver = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (!entry.isIntersecting) return;
-        const id = entry.target.getAttribute("id");
-        sectionLinks.forEach((link) => {
-          link.classList.toggle("is-active", link.getAttribute("href") === `#${id}`);
+    navLinks.forEach((link) => {
+      link.addEventListener("click", () => setMenu(false));
+    });
+  }
+
+  function updateProgress() {
+    if (!progressBar) return;
+    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+    const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+    const progress = maxScroll > 0 ? (scrollTop / maxScroll) * 100 : 0;
+    progressBar.style.width = `${Math.min(progress, 100)}%`;
+  }
+
+  window.addEventListener("scroll", updateProgress, { passive: true });
+  window.addEventListener("resize", updateProgress);
+  updateProgress();
+
+  const sectionIds = navLinks
+    .map((link) => link.getAttribute("href"))
+    .filter((href) => href && href.startsWith("#"))
+    .map((href) => href.slice(1));
+
+  const sections = sectionIds
+    .map((id) => document.getElementById(id))
+    .filter(Boolean);
+
+  if ("IntersectionObserver" in window && sections.length > 0) {
+    const activeObserver = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          const id = entry.target.id;
+          navLinks.forEach((link) => {
+            link.classList.toggle("is-active", link.getAttribute("href") === `#${id}`);
+          });
         });
-      });
-    },
-    { rootMargin: "-45% 0px -48% 0px", threshold: 0 }
-  );
+      },
+      { rootMargin: "-42% 0px -50% 0px", threshold: 0 }
+    );
 
-  sectionLinks.forEach((link) => {
-    const target = document.querySelector(link.getAttribute("href"));
-    if (target) sectionObserver.observe(target);
-  });
-}
+    sections.forEach((section) => activeObserver.observe(section));
+  }
 
-window.addEventListener("scroll", updateReadingLine, { passive: true });
-updateReadingLine();
+  const revealItems = Array.from(document.querySelectorAll(".reveal"));
+  if ("IntersectionObserver" in window && revealItems.length > 0) {
+    const revealObserver = new IntersectionObserver(
+      (entries, observer) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          entry.target.classList.add("is-visible");
+          observer.unobserve(entry.target);
+        });
+      },
+      { threshold: 0.14 }
+    );
+
+    revealItems.forEach((item) => revealObserver.observe(item));
+  } else {
+    revealItems.forEach((item) => item.classList.add("is-visible"));
+  }
+})();

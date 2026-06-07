@@ -26,8 +26,8 @@ File sản phẩm:
 - `san_pham/Bài_6.pdf`
 
 Trạng thái kiểm tra:
-- PDF đã được người dùng chỉnh lại.
-- Website dùng trang 1, 4 và 5 làm minh chứng.
+- PDF hiện có trong thư mục `san_pham/`.
+- Portfolio mới không sử dụng ảnh/PDF minh chứng từ bài này trong giao diện hiện tại.
 
 ## 4. Minh chứng có trong PDF
 
@@ -39,14 +39,9 @@ PDF sản phẩm đã chứa các minh chứng như:
 - Giải pháp cá nhân để sử dụng AI đúng cách.
 - Nhận xét về vai trò của AI trong quá trình học tập.
 
-Đã render các trang được chọn thành ảnh minh chứng cho website.
+Chưa chọn trang minh chứng cho portfolio mới.
 
-Trang minh chứng đã chọn cho website:
-- Trang 1
-- Trang 4
-- Trang 5
-
-Ưu tiên chọn trang có:
+Nếu cần đưa bài này vào website sau này, ưu tiên chọn trang có:
 - bộ 5-7 nguyên tắc sử dụng AI có trách nhiệm,
 - phần phân tích đạo đức AI,
 - phần nói về liêm chính học thuật,
